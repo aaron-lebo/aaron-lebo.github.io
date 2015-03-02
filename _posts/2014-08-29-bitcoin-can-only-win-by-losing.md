@@ -3,6 +3,11 @@ layout: post
 title: Bitcoin Can Only Win By Losing 
 ---
 
+{{ page.title }}
+================
+
+<p class="meta">August 29 2014</p>
+
 I should start this post by listing my Bitcoin "credentials", if you will. While I never drank the kool-aid to the extent some have, I got quite excited by the notion of cryptocurrency towards the end of last year. Since then I have built a couple of proof of concepts based on it, one being a [consumer-friendly DRM system](https://github.com/aaron-lebo/dissent), the other, a [Reddit-clone which uses Bitcoin for voting](https://github.com/aaron-lebo/updn). I also turned a few thousand dollars into over $35,000, and then subsequently lost all but $200 through speculating on cryptocurrencies. This last incident caused me to take a step back, and it has allowed me to see Bitcoin a bit differently. 
 
 For many critics and proponents of Bitcoin, it is very hard to look at the matter with any objectivity. Critics can't see the potential that Bitcoin has as a technology because all they see is something that looks like a pyramid scheme and a community that has seen numerous scams such as [Mt. Gox](http://online.wsj.com/articles/mt-gox-head-believes-no-more-bitcoin-will-be-found-1403850830). For proponents of cryptocurrencies, many are very vested both ideologically and emotionally, and some have major financial attachments. The community already has an us-versus-them attitude due to some very strong opinions about the financial system, and this all culminates in a community which lives in a bit of a bubble (no pun intended, really).
