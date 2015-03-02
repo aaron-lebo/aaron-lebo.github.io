@@ -87,13 +87,13 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #c75b12;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #c75b12;
     text-decoration: none;
   }
 
@@ -132,15 +132,10 @@ ul.posts {
         color: #8085C1;
       }
 
-    .site .footer .rss {
+    .site .footer .theme {
       margin-top: 1.1em;
-      margin-right: -.2em;
       float: right;
     }
-
-      .site .footer .rss img {
-        border: 0;
-      }
 
 /*****************************************************************************/
 /*
