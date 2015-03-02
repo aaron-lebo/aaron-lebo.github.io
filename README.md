@@ -1,6 +1,7 @@
 This is the data for Aaron Lebo's blog, http://lebo.io.
 
-h1. License
+License
+=======
 
 The following directories and their contents are Copyright Aaron Lebo. You may not reuse anything therein without my permission:
 
