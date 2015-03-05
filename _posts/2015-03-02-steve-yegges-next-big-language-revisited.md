@@ -3,11 +3,6 @@ layout: post
 title: Steve Yegge's Next Big Language Revisited 
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">March 2 2015</p>
-
 Good old Steve Yegge. For several years from time to time you'd get one of his rather opinionated, well-informed, and always entertaining blog posts on topics relevant to anyone doing computer programming. He's been relatively quiet for several years now, but I've always thought one of his most memorable pieces was [The Next Big Language](http://steve-yegge.blogspot.com/2007/02/next-big-language.html).
 
 He wrote that just over seven years ago (wow), and although things have not turned out quite as he expected, and it has never been clear whether he had an existing language in mind or was just spitballing, I think he was close enough on the mark to an existing and still growing dynamo to make this worth revisiting.

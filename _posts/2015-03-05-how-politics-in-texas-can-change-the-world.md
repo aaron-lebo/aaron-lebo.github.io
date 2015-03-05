@@ -3,11 +3,6 @@ layout: post
 title: How Politics in Texas Can Change the World 
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">March 5 2015</p>
-
 Texans have a bizarre pride about their state. If I were not a Texan, I'd find it egotistical, annoying, and maybe a little misplaced. But I am a Texan, I'm incredibly proud of that, I won't apologize. Perhaps the greatest two words ever uttered in a TV show came out of Tim Riggins's mouth: "Texas forever". Yeah, it's a little annoying.
 
 Really, being proud of something that you had no control over (like where you were born or raised) is pretty silly. But we all do it, and you might as well be proud of who you are, because if you don't love yourself you can't really love other people. I digress. That being said, Texas continues to rise in national prominence because people who weren't born or raised in the state are moving here in droves, whether due to the business climate, the weather, the cheap land, or an appreciation of really great flags. I have some first-hand experience of this: my father was born and raised in Illinois and moved here to start his own business. He is a proud Texan in his own right at this point. His story is very similar to millions of others.
