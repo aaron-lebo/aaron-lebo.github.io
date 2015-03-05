@@ -2,7 +2,8 @@
 layout: default
 ---
 <div id="post">
-{{ content }}
+  {% include header.html %}
+  {{ content }}
 </div>
 
 <div id="related">
@@ -29,3 +30,7 @@ layout: default
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<script>
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
