@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Worth the Fighting For 
 ---
