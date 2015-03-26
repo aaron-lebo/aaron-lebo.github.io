@@ -3,7 +3,7 @@ layout: post
 title: Worth the Fighting For 
 ---
 
-The world is a beautiful place and worth the fighting for, I only wish I didn't have to leave it.
+*The world is a beautiful place and worth the fighting for, I only wish I didn't have to leave it. - For Whom the Bell Tolls*
 
 The above quote is not a cry for help. I just find it beautiful, and it is a great place to start from. I'm about to write about some topics (mental issues, God, life) that I'm hesitant to talk about, because for many people I know, they might seem like an admission of guilt, or they're just worries about non-practical things and a bunch of hot air. They might even be things which will limit my future options. But they are, ultimately, things I believe and want to keep believing, so I'm going to writ them down. Sometimes writing things down is cathartic because thoughts which were only previously in your head are no made concrete and you can't go back from them.
 
@@ -57,7 +57,7 @@ What is the point of it all? Are we here by chance or is there something more? D
 
 Hollywood has conditioned us to believe that we are all a special snowflake. Hollywood, has, in turn, strongly reacted against that ieda. In Fight Club, one of my favorite movies, Brad Pitt's character (or is it Ed Norton's character?), in all his 0% body fat gives one of the most depressing yet inspiring monologues in cinema:
 
-Man, I see in fight club the strongest and smartest men who've ever lived. I see all this potential, and I see it squandered. God damn it, an entire generation pumping gas, waiting tables, slaves with white collars. Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history, man. No great purpose or place. We have no Great War. No Great Depression. Our Great War's a spiritual war...our Great Depression is our lives. We've all been raised on television to believe that one day we'd all be millionaires, and movie gods, and rock starts. But we won't. And we're slowly learning that fact. And we're very, very pissed off. 
+*Man, I see in fight club the strongest and smartest men who've ever lived. I see all this potential, and I see it squandered. God damn it, an entire generation pumping gas, waiting tables, slaves with white collars. Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history, man. No great purpose or place. We have no Great War. No Great Depression. Our Great War's a spiritual war...our Great Depression is our lives. We've all been raised on television to believe that one day we'd all be millionaires, and movie gods, and rock starts. But we won't. And we're slowly learning that fact. And we're very, very pissed off.* 
 
 Another point in the movie has Pitt saying "you're not special". You are not a special snowflake. Okay, it is true, you are not a special snowflake in Hollywood's overly romantic, everything will be perfect sense of the term. But you are more like a snowflake than you can know.
 
@@ -78,4 +78,4 @@ I started this with a sentence by Ernest Hemingway. I know some people get terri
 
 In Midnight in Paris, Corey Stoll (whom you might have seen without a wig in House of Cards) plays him. Hemingway was a caricature of a human being in real life, but they movie turns it up even more. He's just a larger than life character that spits out the most grandiose but earnest statements that you aren't sure if he really believes or not. I love him for it. I'm going to leave you with one of his monologues which I think captures a lot of what I'm trying to say and his really powerful by itself. Meanwhile, if you'll excuse me, I have an eight page exam due tomorrow. 
 
-I believe that love that is true and real creates a respite from death. All cowardice comes from not loving, or not loving well, which is the same thing. And when the man who is brave and true looks death squarely in the face like some rhino hunters I know, or Belmonte, who's truly brave. It is because they love with sufficient passion to push death out of their minds, until it returns as it does to all men. And then you must make really good love again. Think about it.
+*I believe that love that is true and real creates a respite from death. All cowardice comes from not loving, or not loving well, which is the same thing. And when the man who is brave and true looks death squarely in the face like some rhino hunters I know, or Belmonte, who's truly brave. It is because they love with sufficient passion to push death out of their minds, until it returns as it does to all men. And then you must make really good love again. Think about it.*
