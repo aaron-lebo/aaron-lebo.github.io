@@ -5,7 +5,7 @@ title: Worth the Fighting For
 
 *The world is a beautiful place and worth the fighting for, I only wish I didn't have to leave it. - For Whom the Bell Tolls*
 
-The above quote is not a cry for help. I just find it beautiful, and it is a great place to start from. I'm about to write about some topics (mental issues, God, life) that I'm hesitant to talk about, because for many people I know, they might seem like an admission of guilt, or they're just worries about non-practical things and a bunch of hot air. They might even be things which will limit my future options. But they are, ultimately, things I believe and want to keep believing, so I'm going to writ them down. Sometimes writing things down is cathartic because thoughts which were only previously in your head are no made concrete and you can't go back from them.
+The above quote is not a cry for help. I just find it beautiful, and it is a great place to start from. I'm about to write about some topics (mental issues, God, life) that I'm hesitant to talk about, because for many people I know, they might seem like an admission of guilt, or they're just worries about non-practical things and a bunch of hot air. They might even be things which will limit my future options. But they are, ultimately, things I believe and want to keep believing, so I'm going to write them down. Sometimes writing things down is cathartic because thoughts which were only previously in your head are now made concrete and you can't go back from them.
 
 These are just the thoughts of an honest person trying to work their way through life. Please read accordingly.
 
