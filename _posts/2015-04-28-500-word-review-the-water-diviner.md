@@ -11,7 +11,7 @@ title: 500 Word Review of The Water Diviner
 
 *AMC Firewheel*
 
-*$10.81* 
+*$10.82* 
 
 *The Water Diviner* is apparently Russell Crowe's directorial debut. I love period pieces and it was getting okay reviews on Rotten Tomatoes so I decided to check it out. The movie is set during and right after World War I. Without spoiling much, Crowe and his family live in the Australian Outback. His three sons enlist and end up fighting in the nightmare that was Gallipoli, from which they never return. Four years later, his wife still hasn't gotten over or forgiven him for the loss.
 
