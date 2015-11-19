@@ -673,171 +673,172 @@ because<br />
 like the song<br />
 how could anyone deny you?
 
-SCENE 10
+SCENE 9
 
-29 years.
-what have i learned?
+29 years.<br />
+what have i learned?<br />
 
-perhaps
-life is a current.
-fight against it
-and it will knock you
-down.
-stay down
-and you will
-drown.
-but swim with it
-and it will
+perhaps<br />
+life is a current.<br />
+fight against it<br />
+and it will knock you<br />
+down.<br />
+stay down<br />
+and you will<br />
+drown.<br />
+but swim with it<br />
+and it will<br />
 carry you along.
 
-maybe jobs was right:
-you can poke life.
-it's not abstract or dead,
-but something that responds
+maybe jobs was right:<br />
+you can poke life.<br />
+it's not abstract or dead,<br />
+but something that responds<br />
 to the touch.
 
-fear
-never did 
-anyone 
-any good.
-hiding in your room
-playing it safe
-doesn't keep life,
-it kills.
-because
-if we haven't hurt,
+fear<br />
+never did <br />
+anyone <br />
+any good.<br />
+hiding in your room<br />
+playing it safe<br />
+doesn't keep life,<br />
+it kills.<br />
+because<br />
+if we haven't hurt,<br />
 we haven't lived.
 
-like ted,
-fear's bark
-is way worse than
+like ted,<br />
+bark<br />
+worse than<br />
 its bite.
 
-fields:
-possibility
-cannot exist
-without uncertainty.
-like hope
-and disappointment 
-they are two sides
+fields:<br />
+possibility<br />
+cannot exist<br />
+without uncertainty.<br />
+
+like hope<br />
+and disappointment <br />
+they are two sides<br />
 of the same coin.
 
-if things were always right
-life would not be vivid
-blue
-and red
-and yellow.
-but colorless,
-a dull grey.
+if things were always right<br />
+life would not be vivid<br />
+blue<br />
+and red<br />
+and yellow.<br />
+but colorless,<br />
+a dull grey.<br />
 
-i'm unsure
-if things happen for 
-a reason.
-or if reasons
-are the stories we make 
-to find 
-meaning.
-maybe
-the point of it all
-is that it doesn't
+i'm unsure<br />
+if things happen for <br />
+a reason.<br />
+or if reasons<br />
+are the stories we make <br />
+to find <br />
+meaning.<br />
+maybe<br />
+the point of it all<br />
+is that it doesn't<br />
 matter.
 
-we are all
-in the same current 
-called life.
-the same boat.
-are we so very different?
+we are all<br />
+in the same current <br />
+called life.<br />
+the same boat.<br />
+are we so very different?<br />
 
-of course,
-we are different.
-and that's
-the rub.
-we are not all
-a dull grey.
-some are blue
-or red
-or yellow.
+of course,<br />
+we are different.<br />
+and that's<br />
+the rub.<br />
+we are not all<br />
+a dull grey.<br />
+some are blue<br />
+or red<br />
+or yellow.<br />
 some green.
 
-the different
-shades
-and colors.
-give us 
-shape
-and beauty
-and depth.
-and from this comes 
-the universal command:
-do you,
+the different<br />
+shades<br />
+and colors.<br />
+give us <br />
+shape<br />
+and beauty<br />
+and depth.<br />
+and from this comes <br />
+the universal command:<br />
+do you,<br />
 man.
 
-do you,
-i'll do me.
-we must
-love ourselves
-because
-without that
-we cannot
+do you,<br />
+i'll do me.<br />
+we must<br />
+love ourselves<br />
+because<br />
+without that<br />
+we cannot<br />
 love others.
 
-and surely,
-we must
-love
-because 
-love is
-the currency.
-love is
-the current
+and surely,<br />
+we must<br />
+love<br />
+because <br />
+love is<br />
+the currency.<br />
+love is<br />
+the current<br />
 called life.
 
-SCENE
+SCENE 1-
 
-my record player.
-records are played in their
-entirety.
-because
-each album is
-a story.
-the way
-the artist
-intended.
-stories like
+my record player.<br />
+records are played in their<br />
+entirety.<br />
+because<br />
+each album is<br />
+a story.<br />
+the way<br />
+the artist<br />
+intended.<br />
+stories like<br />
 our lives.
 
-we each get
-one story 
-to tell.
-we are each handed
-an empty book
-with pages
+we each get<br />
+one story <br />
+to tell.<br />
+we are each handed<br />
+an empty book<br />
+with pages<br />
 to fill.
 
-you have been part of
-my story.
-and i realize
-i know so little 
-about
+you have been part of<br />
+my story.<br />
+and i realize<br />
+i know so little <br />
+about<br />
 yours.
 
-you are
-finely bound.
-i could look at
-your cover
-all day.
-beautiful.
-i've yet to find another
+you are<br />
+finely bound.<br />
+i could look at<br />
+your cover<br />
+all day.<br />
+beautiful.<br />
+i've yet to find another<br />
 so perfectly drawn.
 
-but truly it is 
-your words
-your pages
+but truly it is <br />
+your words<br />
+your pages<br />
 that fascinate me.
 
-i read
-a sentence here
-and there.
-snuck 
-a paragraph
+i read<br />
+a sentence here<br />
+and there.<br />
+snuck <br />
+a paragraph<br />
 or two.
 
 i marveled.
