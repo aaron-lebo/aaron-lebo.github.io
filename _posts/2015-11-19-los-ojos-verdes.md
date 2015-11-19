@@ -82,7 +82,7 @@ i knew it must be <br />
 beautiful.<br />
 i wondered if i would hear it.<br />
 
-i told the artist<br />
+i told el artista<br />
 how badly<br />
 i wanted to woo you.<br />
 
@@ -196,70 +196,70 @@ the reality<br />
 was better than<br />
 the dream. 
 
-i put my arms around you for 
-the first time.
-we sat and talked.
-teddy was restless,
-almost lost my chair.
-surely that is all part of
+i put my arms around you for<br /> 
+the first time.<br />
+we sat and talked.<br />
+teddy was restless,<br />
+almost lost my chair.<br />
+surely that is all part of<br />
 the charm?
 
-we moved to the grass.
-while children ran around us,
-we sized each other
+we moved to the grass.<br />
+while children ran around us,<br />
+we sized each other<br />
 up.
 
-we laughed,
-we advanced,
-and then retreated.
-we rinsed
-and repeated.
-who are you?
+we laughed,<br />
+we advanced,<br />
+and then retreated.<br />
+we rinsed<br />
+and repeated.<br />
+who are you?<br />
 who am i?
 
-teddy barked
-and bolted.
-my head,
-your knee.
-it only hurt
+teddy barked<br />
+and bolted.<br />
+my head,<br />
+your knee.<br />
+it only hurt<br />
 my pride.
 
-you told me of that city
-where the sun sets at three.
-i knew this because
-that city
+you told me of that city<br />
+where the sun sets at three.<br />
+i knew this because<br />
+that city<br />
 had been my escape.
 
-el artist knows how many times
-i'd decided 
-i'd had enough
-and would make that escape.
-but if i'd run,
-we were on different orbits,
-never to cross paths
-at all.
-something lost
+el artista knows how many times<br />
+i'd decided<br /> 
+i'd had enough<br />
+and would make that escape.<br />
+but if i'd run,<br />
+we were on different orbits,<br />
+never to cross paths<br />
+at all.<br />
+something lost<br />
 and something gained.
 
-we said goodbye.
-i couldn't read you.
-did you really want to meet again?
-at home 
-i drank all the beer
-i'd been too afraid to bring.
-all but the one that broke,
+we said goodbye.<br />
+i couldn't read you.<br />
+did you really want to meet again?<br />
+at home <br />
+i drank all the beer<br />
+i'd been too afraid to bring.<br />
+all but the one that broke,<br />
 anyway.
 
-i ranted
-and raved.
-why get your hopes up?
-my friends listened
-and i listened to them.
-then you responded,
-and i realized,
+i ranted<br />
+and raved.<br />
+why get your hopes up?<br />
+my friends listened<br />
+and i listened to them.<br />
+then you responded,<br />
+and i realized,<br />
 that was an overreaction.
 
-SCENE
+SCENE 3
 
 the next day,
 you became 
