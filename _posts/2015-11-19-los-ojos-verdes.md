@@ -510,51 +510,51 @@ puzzles<br />
 falling into <br />
 place.
 
-school for teddy.
-he's not phd material
-but he stays very well.
-he stays well.
-sometimes he stays.
+school for teddy.<br />
+he's not phd material<br />
+but he stays very well.<br />
+he stays well.<br />
+sometimes he stays.<br />
 
-appointments
-and sessions.
-waiting rooms
-full of 
-broken people.
-maybe hemingway was right:
-we are all broken,
+appointments<br />
+and sessions.<br />
+waiting rooms full of<br /> 
+broken people.<br />
+maybe hemingway was right:<br />
+we are all broken,<br />
 that's how the light gets in.
 
-the ghost of 
-green hall
-stopped haunting.
-as fears slipped away,
-they were like objects in space,
-speeding by,
-never to cross paths
-again.
-nothing lost
-and something gained.
-and then,
-nothing lost
+the ghost of <br />
+green hall<br />
+stopped haunting<br />.
+as fears slipped away,<br />
+they were like objects in space,<br />
+speeding by,<br />
+never to cross paths<br />
+again.<br />
+nothing lost<br />
+and something gained.<br />
+and then,<br />
+nothing lost<br />
 and everything gained.
 
-even as things
-left and filled
-my life.
-i missed
+even as things<br />
+left and filled<br />
+my life.<br />
+i missed<br />
 you.
 
-and the truth is
-i wondered if 
-we were objects in space,
-speeding by,
-never to cross paths
-again.
-something lost
+and the truth is<br />
+i wondered if <br />
+we were objects in space,<br />
+speeding by,<br />
+never to cross paths<br />
+again.<br />
+something lost<br />
 and everything gained.
 
-SCENE
+SCENE 8
+
 three weeks.
 i told myself:
 i gotta see about
