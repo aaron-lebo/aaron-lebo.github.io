@@ -906,121 +906,121 @@ or autumn?
 
 SCENE 11
 
-more than one
-has said
-writing
-is like
-making
+more than one<br />
+has said<br />
+writing<br />
+is like<br />
+making<br />
 love.
 
-since i have not
-seen you
-in so long,
-please accept
-every
-word
-as the
-kisses
-and caresses
+since i have not<br />
+seen you<br />
+in so long,<br />
+please accept<br />
+every<br />
+word<br />
+as the<br />
+kisses<br />
+and caresses<br />
 they are.
 
-i miss
-touching your
-lips,
-feeling your
-hair,
-rubbing your
-shoulders,
-grabbing your
-hands,
-kissing your
+i miss<br />
+touching your<br />
+lips,<br />
+feeling your<br />
+hair,<br />
+rubbing you<br />r
+shoulders,<br />
+grabbing your<br />
+hands,<br />
+kissing your<br />
 skin.
 
-i miss
-hearing your
-laugh,
-your voice,
+i miss<br />
+hearing your<br />
+laugh,<br />
+your voice,<br />
 your soul.
 
-and if
-you couldn't tell,
-i miss
-looking into your
+and if<br />
+you couldn't tell,<br />
+i miss<br />
+looking into your<br />
 green eyes.
 
-SCENE
+SCENE 12
 
-telling you
-this,
-i know
-there are
-variables
-i cannot
+telling you<br />
+this,<br />
+i know<br />
+there are<br />
+variables<br />
+i cannot<br />
 control.
 
-you have your own
-life,
-hopes,
-needs,
-wants,
-and dreams.
-you probably even have
-a flaw
-or two.
-i'm just
-a guy
-you first met
+you have your own<br />
+life,<br />
+hopes,<br />
+needs,<br />
+wants,<br />
+and dreams.<br />
+you probably even have<br />
+a flaw<br />
+or two.<br />
+i'm just<br />
+a guy<br />
+you first met<br />
 in pictures and words.
 
-still.
-i'm a little curious.
-aren't you?
-maybe
-we should
-write together
-a little bit more.
-even if only
-a chapter
-or two.
-each one
-better than
+still.<br />
+i'm a little curious.<br />
+aren't you?<br />
+maybe<br />
+we should<br />
+write together<br />
+a little bit more.<br />
+even if only<br />
+a chapter<br />
+or two.<br />
+each one<br />
+better than<br />
 the last.
 
-you don't have to use
-a blue
-pen.
-don't you have
-a different color,
+you don't have to use<br />
+a blue<br />
+pen.<br />
+don't you have<br />
+a different color,<br />
 anyway?
 
-regardless,
-keep filling
-your pages
-with
-the beautiful words
-i know 
-you will.
-make 
-the dream
+regardless,<br />
+keep filling<br />
+your pages<br />
+with<br />
+the beautiful words<br />
+i know <br />
+you will.<br />
+make <br />
+the dream<br />
 the reality.
 
-too,
-i know
-what i want,
-but in a world with
-the bataclan,
-we must appreciate
+too,<br />
+i know<br />
+what i want,<br />
+but in a world with<br />
+the bataclan,<br />
+we must appreciate<br />
 whatever we get.
 
-forgive me,
-i must 
-try.
-the beauty
-is all in 
-the try
-and not in
-the things we call
-success
+forgive me,<br />
+i must <br />
+try.<br />
+the beauty<br />
+is all in <br />
+the try<br />
+and not in<br />
+the things we call<br />
+success<br />
 and failure.
 
 even when we
@@ -1028,75 +1028,75 @@ slip
 something will catch us in
 the end.
 
-maybe 
-we are on different orbits,
-never to cross paths
-again.
-everything lost
-and something gained.
-or maybe,
-we are on orbits,
-heading to cross paths
-again.
-everything lost
+maybe <br />
+we are on different orbits,<br />
+never to cross paths<br />
+again.<br />
+everything lost<br />
+and something gained.<br />
+or maybe,<br />
+we are on orbits,<br />
+heading to cross paths<br />
+again.<br />
+everything lost<br />
 and everything gained.
 
-at least
-know
-you've changed
-at least one object's
-trajectory.
+at least<br />
+know<br />
+you've changed<br />
+one object's<br />
+trajectory.<br />
 
-SCENE
+SCENE 13
 
-today.
-early morning.
-turning in
-homework.
-lost in 
+today.<br />
+early morning.<br />
+turning in<br />
+homework.<br />
+lost in <br />
 odds and probabilities.
 
-blue pen.
-green building.
-counting
-dots in squares.
-i am
+blue pen.<br />
+green building.<br />
+counting<br />
+dots in squares.<br />
+i am<br />
 five.
 
-the math is 
-wrong.
-it should be
-one and not two.
-how...?
-it does not
-matter.
-under the
+the math is<br /> 
+wrong.<br />
+it should be<br />
+one and not two.<br />
+how...?<br />
+it doesn't<br />
+matter.<br />
+under the<br />
 door.
 
-thoughts.
-does
-green eyes
-have class?
+thoughts.<br />
+does<br />
+green eyes<br />
+have class?<br />
 knees wobble.
 
-text her!
-don't be
-afraid.
-don't have
-regrets.
-try.
-no.
-don't be
-afraid.
-try
-a new thing.
+text her.
+don't be<br />
+afraid.<br />
+don't have<br />
+regrets.<br />
+try.<br />
+no.<br />
+don't be<br />
+afraid.<br />
+try<br />
+a new thing.<br />
 let go.
 
-funny.
-the closest
-in months.
-and maybe 
-the closest 
+funny.<br />
+the closest<br />
+in months.<br />
+and maybe <br />
+the closest <br />
 i'll ever be.
 
 will you let me see<br />
