@@ -526,7 +526,7 @@ that's how the light gets in.
 
 the ghost of <br />
 green hall<br />
-stopped haunting<br />.
+stopped haunting.<br />
 as fears slipped away,<br />
 they were like objects in space,<br />
 speeding by,<br />
