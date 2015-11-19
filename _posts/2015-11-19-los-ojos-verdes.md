@@ -261,62 +261,64 @@ that was an overreaction.
 
 SCENE 3
 
-the next day,
-you became 
-my bond girl.
-but you were never mine.
-how could you be,
-when following
-your own compass
+the next day<br />
+you became <br />
+my bond girl.<br />
+but you were never mine.<br />
+how could you be,<br />
+when following<br />
+your own compass<br />
 is what i loved about you?
 
-the next time we met,
-we sat under 
-the stars.
-you again brought the blanket,
-and i actually brought the wine,
+the next time we met,<br />
+we sat under <br />
+the stars.<br />
+you again brought the blanket,<br />
+and i actually brought the wine,<br />
 but no ted.
 
-we broke curfew.
-sorry plano,
-i'll gladly pay a fine.
-it took me awhile to realize,
-you cared less about the stars.
-i spilled my wine,
-and we laughed,
-and talked.
-you wanted to make 
-a mark,
-i could only agree,
-you always had 
-beautiful words.
-we sat quietly
+we broke curfew.<br />
+sorry richardson,<br />
+i'll gladly pay a fine.<br />
+it took me awhile to realize,<br />
+you cared less about the stars.<br />
+i spilled my wine,<br />
+and we laughed,<br />
+and talked.<br />
+you wanted to make <br />
+a mark,<br />
+i could only agree,<br />
+you always had <br />
+beautiful words.<br />
+we sat quietly<br />
 under the stars.
 
-SCENE
+SCENE 4
 
-there was late night sushi
-and converstations about a kiss.
-there was mediterranean
+there was late night sushi<br />
+and converstations about <br />
+a kiss.<br />
+there was mediterranean<br />
 and a kiss.
 
-i laid beside you,
-and looked into those
-green eyes.
-i lost track of time and thought.
+i laid beside you,<br />
+and looked into those<br />
+green eyes.<br />
+i lost track of time<br />
+and thought.
 
-if eyes are 
-windows to the soul.
-then your soul
+if eyes are<br /> 
+windows to the soul.<br />
+then yours<br />
 glimmers.
 
-when you left,
-i knew,
-the reality
-was better than
+when you left,<br />
+i knew,<br />
+the reality<br />
+was better than<br />
 the dream. 
 
-SCENE
+SCENE 5
 
 the fire in your eyes,
 had lept to my own.
