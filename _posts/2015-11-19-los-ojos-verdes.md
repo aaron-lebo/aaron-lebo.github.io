@@ -402,114 +402,112 @@ eyes.
 
 SCENE 6
 
-i couldn't hurt you
-and then i did.
-or did i only hurt
+i couldn't hurt you<br />
+and then i did.<br />
+or did i only hurt<br />
 myself?
 
-fears from a past 
-returned.
-my words broke.
-we tried again.
-and again 
-i slipped.
-lost my 
-footing.
-came
-tumbling 
+fears from a past <br />
+returned.<br />
+my words broke.<br />
+we tried again.<br />
+and again <br />
+i slipped.<br />
+lost my <br />
+footing.<br />
+came<br />
+tumbling <br />
 down.
 
-you called.
-i knew
-shame.
-i'd let you
-down.
-destroyed
-an idea
+you called.<br />
+i knew<br />
+shame.<br />
+i'd let you<br />
+down.<br />
+destroyed<br />
+an idea<br />
 six weeks in the making.
 
-i heard
-every word.
-we said
-goodbyes?
-was the reality
-better than
+i heard<br />
+every word.<br />
+we said<br />
+goodbyes?<br />
+was the reality<br />
+better than<br />
 the dream? 
 
-maybe we were on different orbits,
-never to cross paths
-again.
-everything lost
+maybe we were on different orbits,<br />
+never to cross paths<br />
+again.<br />
+everything lost<br />
 and nothing gained.
 
-SCENE
+SCENE 7 
 
-at the bottom,
-i found
-the map
-and headed towards 
-the signal fire,
-that was 
-you.
-something to 
-light
-my path
-even if
-there was nothing at
+at the bottom,<br />
+i found<br />
+the map<br />
+and headed towards<br /> 
+the signal fire,<br />
+that was <br />
+you.<br />
+something to <br />
+light<br />
+my path<br />
+even if<br />
+there was nothing a<br />t
 the end.
 
-i knew of 
-the variables
-i could not
-control.
-time,
-distance,
-waning
-desire,
+i knew of <br />
+the variables<br />
+i could not<br />
+control.<br />
+time,<br />
+distance,<br />
+waning desire,<br />
 someone new.
 
-i knew of
-odds and probabilities.
-not in my favor?
-but they were 
-never
-in favor.
-people
-and places
-and things
-and meeting you
-should not have happened.
-but they did.
-and i'd walk
-a million miles
-for the smallest chance 
-of seeing
+i knew of<br />
+odds and probabilities.<br />
+not in my favor?<br />
+they were never<br />
+in favor.<br />
+people<br />
+and places<br />
+and things<br />
+and you<br />
+should not have happened.<br />
+but they did.<br />
+and i'd walk<br />
+a million miles<br />
+for the smallest chance<br /> 
+of seeing<br />
 you.
 
-bought a bike,
-thirty miles 
-and crashes 
-and black eyes
-are easier
-with you
-in mind.
-biking
-a million miles
-is easier
+bought a bike,<br />
+thirty miles <br />
+and crashes <br />
+and black eyes<br />
+are easier<br />
+with you<br />
+in mind.<br />
+biking<br />
+a million miles<br />
+is easier<br />
 anyway.
 
-cooked a little.
-pasta.
-unsure if 
-the choice of menu
+cooked a little.<br />
+pasta.<br />
+unsure if <br />
+the choice of menu<br />
 was intentional.
 
-dissertations
-and dreams.
-progress.
-pieces of unsolved
-puzzles
-falling into 
+dissertations<br />
+and dreams.<br />
+progress.<br />
+pieces of unsolved<br />
+puzzles<br />
+falling into <br />
 place.
 
 school for teddy.
