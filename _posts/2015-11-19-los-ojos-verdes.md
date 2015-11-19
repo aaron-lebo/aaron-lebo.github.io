@@ -61,14 +61,15 @@ were you a reality?<br />
 
 i put on my best words.<br />
 though i flattered you,<br />
-it was all true.<br />
+it was all<br />
+true.
 
-you may not have known,<br />
+you may not have known<br />
 how i was <br />
 alone.<br />
 but i assure you,<br />
 the feeling was mutual.<br />
-i knew<br />
+though i knew<br />
 it was by<br />
 choice.
 
@@ -109,25 +110,26 @@ of course,<br />
 to meet,<br />
 we had to call.<br />
 
-i remember when i first heard your voice,
-the reality
-was better than
+i remember when i first heard your<br />
+voice,<br />
+the reality<br />
+was better than<br />
 the dream.
 
-funny.
-we both took classes
-in that green building.
-how many times
-had we passed by,
-walking a hallway,
-driving a road.
-only to meet
-in pictures and words.
+funny.<br />
+we both took classes<br />
+in that green building.<br />
+how many times<br />
+had we passed by,<br />
+walking a hallway,<br />
+driving a road.<br />
+only to meet<br />
+in pictures and words.<br />
 
-you asked if i was nervous.
-i'm a terrible liar.
-yes,
-i was nervous.
+you asked if i was nervous.<br />
+i'm a terrible liar.<br />
+hell yes,<br />
+i was nervous.<br />
 
 stargazing
 too ambitious.
@@ -1091,7 +1093,6 @@ and maybe
 the closest 
 i'll ever be.
 
-but
-won't you let me see
-those
-green eyes?
+will you let me see<br />
+those<br />
+green eyes?<br />
