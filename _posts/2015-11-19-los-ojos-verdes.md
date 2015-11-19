@@ -555,125 +555,125 @@ and everything gained.
 
 SCENE 8
 
-three weeks.
-i told myself:
-i gotta see about
+three weeks.<br />
+i told myself:<br />
+i gotta see about<br />
 a girl.
 
-prepared for
-the funeral.
-was shocked you replied.
-too late for
-the fair.
-someone will find
-a ticket in a book
+prepared for<br />
+the funeral.<br />
+was shocked you replied.<br />
+too late for<br />
+the fair.<br />
+someone will find<br />
+a ticket in a book<br />
 in 2051.
 
-something had
-changed.
-no longer
-texts at 
-night
-when
-you could not
+something had<br />
+changed.<br />
+no longer<br />
+texts at <br />
+night<br />
+when<br />
+you could not<br />
 sleep.
 
-in my phone
-you became
-z.
-easier
-to not see you
+in my phone<br />
+you became<br />
+z.<br />
+easier<br />
+to not see you<br />
 every time i dialed.
 
-rainy night.
-i wanted you to know
-who i was.
-rainy day.
-a voicemail.
-texting.
-incessant.
+rainy night.<br />
+i wanted you to know<br />
+who i was.<br />
+rainy day.<br />
+a voicemail.<br />
+texting.<br />
+incessant.<br />
 what about a hockey game?
 
-you ever have
-a million words to say
-and only
+you ever have<br />
+a million words to say<br />
+and only<br />
 a text to say it?
 
-restless thoughts.
-a walk.
-pouring rain.
-a phone call.
+restless thoughts.<br />
+a walk.<br />
+pouring rain.<br />
+a phone call.<br />
 z.
 
-that voice.
-like a high.
-you forget 
-the pleasure
-feel it again
-and remember
-why you want
+that voice.<br />
+like a high.<br />
+you forget <br />
+the pleasure<br />
+feel it again<br />
+and remember<br />
+why you want<br />
 more.
 
-talked about
-you
-then me,
-your country.
-my fear:
-someone new,
-not my business.
-but did we have a
-connection?
-we did.
-tv shows.
-friends.
-we laughed.
-hour and a half.
-how about the hockey game?
-next week too ambitious.
-but with
-good night,
+talked about<br />
+you<br />
+then me,<br />
+your country.<br />
+my fear:<br />
+someone new,<br />
+not my business.<br />
+but did we have a<br />
+connection?<br />
+we did.<br />
+tv shows.<br />
+friends.<br />
+we laughed.<br />
+hour and a half.<br />
+how about the hockey game?<br />
+next week too ambitious.<br />
+but with<br />
+good night,<br />
 hope.
 
-another phone call.
-talked about
-costumes,
-the moon and stars.
-spun a story.
-i know we joked,
-but a crash
-would be bad for both of us.
-that book would be a best-seller,
+another phone call.<br />
+talked about<br />
+costumes,<br />
+the moon and stars.<br />
+spun a story.<br />
+i know we joked,<br />
+but a crash<br />
+would be bad for both of us.<br />
+that book would be a best-seller,<br />
 though.
 
-halloween.
-an object in space
-flied by.
-talked with someone new 
-or two.
-fizzled out.
-my standards are too high
-now.
-roses.
-petals or thorns.
+halloween.<br />
+an object in space<br />
+flied by.<br />
+talked with someone new <br />
+or two.<br />
+fizzled out.<br />
+my standards are too high<br />
+now.<br />
+roses.<br />
+petals or thorns.<br />
 i wonder.
 
-you became my
-green eyes.
-but you were never mine.
-how could you be,
-when following
-your own compass
+you became my<br />
+green eyes.<br />
+but you were never mine.<br />
+how could you be,<br />
+when following<br />
+your own compass<br />
 is what i loved about you?
 
-actually,
-you were
-ojos verdes,
-the day we first met.
-because
-like the song
+actually,<br />
+you were<br />
+ojos verdes,<br />
+the day we first met.<br />
+because<br />
+like the song<br />
 how could anyone deny you?
 
-SCENE
+SCENE 10
 
 29 years.
 what have i learned?
