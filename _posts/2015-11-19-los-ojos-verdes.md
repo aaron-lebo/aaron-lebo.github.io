@@ -1023,9 +1023,9 @@ the things we call<br />
 success<br />
 and failure.
 
-even when we
-slip
-something will catch us in
+even when we<br />
+slip<br />
+something will catch us in<br />
 the end.
 
 maybe <br />
