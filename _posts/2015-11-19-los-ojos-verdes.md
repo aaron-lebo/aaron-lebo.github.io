@@ -320,87 +320,87 @@ the dream.
 
 SCENE 5
 
-the fire in your eyes,
-had lept to my own.
-i had to
-say,
-do,
-act,
-live,
+the fire in your eyes,<br />
+had lept to my own.<br />
+i had to<br />
+say,<br />
+do,<br />
+act,<br />
+live,<br />
 be.
 
-i tried to put you into words.
-none seemed to fit.
-not because they didn't apply,
-but because,
-just as light is not only 
-blue
-or red
-or yellow
-but a mixture of all,
-no single word
-could give
-your shape
-and i couldn't find
+i tried to put you into words.<br />
+none seemed to fit.<br />
+not because they didn't apply,<br />
+but because,<br />
+just as light is not only<br /> 
+blue<br />
+or red<br />
+or yellow<br />
+but a mixture of all,<br />
+no single word<br />
+could give<br />
+your shape<br />
+and i couldn't find<br />
 a prism.
 
-you became 
-my muse.
-but you were never mine.
-how could you be,
-when following
-your own compass
+you became <br />
+my muse.<br />
+but you were never mine.<br />
+how could you be,<br />
+when following<br />
+your own compass<br />
 is what i loved about you?
 
-there were
-cuba libres
-and
-coldplay.
-laughter.
-in the morning,
-colombian coffee
+there were<br />
+cuba libres<br />
+and<br />
+coldplay.<br />
+laughter.<br />
+in the morning,<br />
+colombian coffee<br />
 in bed.
 
-magic.
-seven years in the dark
-bad been 
+magic.<br />
+seven years in the dark<br />
+bad been <br />
 forgiven.
 
-the reality
-was better than
+the reality<br />
+was better than<br />
 the dream. 
 
-i tried words again.
-better now.
-a poem
-hidden in
+i tried words again.<br />
+better now.<br />
+a poem<br />
+hidden in<br />
 a book.
 
-pho,
-talking about
-eating ants,
-coloraduh,
-and the city
-where the sun sets
-at three.
-what had been 
-an escape
-was now 
+pho,<br />
+talking about<br />
+eating ants,<br />
+coloraduh,<br />
+and the city<br />
+where the sun sets<br />
+at three.<br />
+what had been <br />
+an escape<br />
+was now <br />
 a hope.
 
-picky about the milk,
-only almond
-would do.
-captain crunch,
-jack's mannequin.
-the morning.
-you left
-and i didn't know 
-so much time
-would separate our 
+picky about the milk,<br />
+only almond<br />
+would do.<br />
+captain crunch,<br />
+jack's mannequin.<br />
+the morning.<br />
+you left<br />
+and i didn't know<br /> 
+so much time<br />
+would separate our <br />
 eyes.
 
-SCENE
+SCENE 6
 
 i couldn't hurt you
 and then i did.
