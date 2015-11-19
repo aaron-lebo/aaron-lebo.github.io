@@ -131,64 +131,69 @@ i'm a terrible liar.<br />
 hell yes,<br />
 i was nervous.<br />
 
-stargazing
-too ambitious.
-we'd meet
-at that park downtown.
-you'd bring a blanket for sitting,
-and i'd grab the drinks for drinking, 
-and the teddy for petting.
+stargazing<br />
+too ambitious.<br />
+we'd meet<br />
+at that park downtown.<br />
+you'd bring a blanket for sitting,<br />
+and i'd grab the drinks for drinking, <br />
+and the teddy for petting.<br />
 
-teddy roosevelt.
-not to be trusted.
-a pup in a pit's body.
-but hungry and curious.
-maybe not unlike me
+teddy roosevelt.<br />
+not to be trusted.<br />
+a pup in a pit's body.<br />
+but hungry and curious.<br />
+maybe not unlike me<br />
 or you.
 
-bringing him was a risk.
-but if you wanted me to bring him along,
+bringing him was<br /> 
+a risk.<br />
+but if you wanted me to bring him along,<br />
 i sure as hell was bringing him along.
 
-i left early,
-got lost,
-couldn't find the wine,
-and when i texted i was close,
+i left early,<br />
+got lost,<br />
+couldn't find the wine,<br />
+and when i texted i was close,<br />
 realized you hadn't left. 
 
-got lost downtown,
-spent $20 to park
-(it was worth it),
+got lost<br />
+downtown,<br />
+$20 to park<br />
+(worth it),<br />
 got scared and left the beer.
 
-walked to the park 
-where a drunk couple fawned over ted.
-couldn't find you,
-heard annoyance in that 
+walked to the park<br /> 
+where a drunk couple fawned over ted.<br />
+couldn't find you,<br />
+heard annoyance in that <br />
 pretty voice.
 
-wondered if my chance
-was slipping away.
-another couple
-thought ted a killer.
-and i was glad to get around
+wondered if my<br /> 
+chance<br />
+was slipping<br /> 
+away.<br />
+another couple<br />
+thought ted a killer.<br />
+and i was glad to get around<br />
 the corner.
 
-looked around.
-didn't see you.
-then i heard my name
-in a familiar note.
+looked around.<br />
+didn't see you.<br />
+then i heard my name<br />
+in a familiar<br />
+note.
 
-there you were
-standing under 
-the light.
-that moment
-is not like part of a dream
-that you forget when you wake.
-i can't forget 
-because
-the reality
-was better than
+there you were<br />
+standing under <br />
+the light.<br />
+that moment<br />
+is not like part of a dream<br />
+that you forget when you wake.<br />
+i can't forget <br />
+because<br />
+the reality<br />
+was better than<br />
 the dream. 
 
 i put my arms around you for 
