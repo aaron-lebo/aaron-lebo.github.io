@@ -841,26 +841,26 @@ snuck <br />
 a paragraph<br />
 or two.
 
-i marveled.
-i wanted more.
-but the book
-kept moving.
-i never finished it.
-and really,
-unfinished stories
-are the ones that
+i marveled.<br />
+i wanted more.<br />
+but the book<br />
+kept moving.<br />
+i never finished it.<br />
+and really,<br />
+unfinished stories<br />
+are the ones that<br />
 call to you.
 
-truth be told,
-i've read too many
-stories,
-listened to too much 
-music,
-seen too many 
-movies.
-too much
-hey jude
-not enough
+truth be told,<br />
+i've read too many<br />
+stories,<br />
+listened to too much <br />
+music,<br />
+seen too many<br /> 
+movies.<br />
+too much<br />
+hey jude<br />
+not enough<br />
 hey you.
 
 i used to wonder
