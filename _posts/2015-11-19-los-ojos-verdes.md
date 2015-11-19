@@ -3,9 +3,11 @@ layout: post
 title: los ojos verdes 
 ---
 
-SCENE
+SCENE 1
 
-the writer, vonnegut, says to write for<br />
+the writer, <br />
+vonnegut, <br />
+says to write for<br />
 an audience of one.<br />
 so though many will read this,<br />
 it is only for your <br />
@@ -57,52 +59,55 @@ i must meet you.<br />
 you were a dream;<br />
 were you a reality?<br />
 
-i put on my best words.
-though i flattered you,
-it was all true.
+i put on my best words.<br />
+though i flattered you,<br />
+it was all true.<br />
 
-you may not have known,
-how i was 
-alone.
-but i assure you,
-the feeling was mutual.
+you may not have known,<br />
+how i was <br />
+alone.<br />
+but i assure you,<br />
+the feeling was mutual.<br />
+i knew<br />
+it was by<br />
+choice.
 
-somehow,
-our conversation stretched 
-into the next day.
+somehow,<br />
+our conversation stretched<br /> 
+into the next day.<br />
 
-i thought of your voice.
-i knew it must be 
-beautiful.
-i wondered if i would hear it.
+i thought of your voice.<br />
+i knew it must be <br />
+beautiful.<br />
+i wondered if i would hear it.<br />
 
-i told el artist
-how badly
-i wanted to woo you.
+i told the artist<br />
+how badly<br />
+i wanted to woo you.<br />
 
-i was in a room of people
-when you said you'd call.
-i left the room,
-sat on stairs, 
-and looked at empty cars.
+i was in a room of people<br />
+when you said you'd call.<br />
+i left the room,<br />
+sat on stairs, <br />
+and looked at empty cars.<br />
 
-you never called.
-maybe we were on different orbits,
-never to cross paths
-again.
-something lost
-and nothing gained.
+you never called.<br />
+maybe we were on different orbits,<br />
+never to cross paths<br />
+again.<br />
+something lost<br />
+and nothing gained.<br />
 
-SCENE
+SCENE 2
 
-but the next day,
-you asked what i should have.
-why should we call,
-when we could meet?
+but the next day,<br />
+you asked what i should have.<br />
+why should we call,<br />
+when we could meet?<br />
 
-of course,
-to meet,
-we had to call.
+of course,<br />
+to meet,<br />
+we had to call.<br />
 
 i remember when i first heard your voice,
 the reality
