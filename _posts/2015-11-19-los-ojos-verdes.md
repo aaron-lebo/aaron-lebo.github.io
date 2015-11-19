@@ -5,57 +5,57 @@ title: los ojos verdes
 
 SCENE
 
-the writer, vonnegut, says to write for
-an audience of one.
-so though many will read this,
-it is only for your 
-green eyes.
+the writer, vonnegut, says to write for<br />
+an audience of one.<br />
+so though many will read this,<br />
+it is only for your <br />
+green eyes.<br />
 
-i remember when we first met,
-you said you liked my dog,
-and said you liked his name.
-if i saved his life ten times over,
-i couldn't pay him back.
+i remember when we first met,<br />
+you said you liked my dog,<br />
+and said you liked his name.<br />
+if i saved his life ten times over,<br />
+i couldn't pay him back.<br />
 
-i looked at pictures,
-approximations of 
-you.
-i read your words,
-only a summary of your 
-soul.
+i looked at pictures,<br />
+approximations of <br />
+you.<br />
+i read your words,<br />
+only a summary of your<br /> 
+soul.<br />
 
-but still,
-even then,
-you grabbed me.
+but still,<br />
+even then,<br />
+you grabbed me.<br />
 
-i asked of your country,
-and found it was 
-the place
-my heart has always been.
-at least a quarter of it, 
-anyway.
-a place i have roots,
-a place that calls to me. 
-a place where they speak,
-a language from my youth.
+i asked of your country,<br />
+and found it was <br />
+the place<br />
+my heart has always been.<br />
+at least a quarter of it, <br />
+anyway.<br />
+a place i have roots,<br />
+a place that calls to me. <br />
+a place where they speak,<br />
+a language from my youth.<br />
 
-i have been indifferent
-to so many others.
-if we clicked,
-we clicked.
-but if not,
-we'd be like objects in space,
-speeding by,
-never to cross paths
-again.
-nothing lost
-and nothing gained.
+i have been indifferent<br />
+to so many others.<br />
+if we clicked,<br />
+we clicked.<br />
+but if not,<br />
+we'd be like objects in space,<br />
+speeding by,<br />
+never to cross paths<br />
+again.<br />
+nothing lost<br />
+and nothing gained.<br />
 
-but on that night,
-i knew,
-i must meet you.
-you were a dream;
-were you a reality?
+but on that night,<br />
+i knew,<br />
+i must meet you.<br />
+you were a dream;<br />
+were you a reality?<br />
 
 i put on my best words.
 though i flattered you,
