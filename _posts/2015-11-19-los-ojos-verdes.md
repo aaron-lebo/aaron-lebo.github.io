@@ -791,7 +791,7 @@ love is<br />
 the current<br />
 called life.
 
-SCENE 1-
+SCENE 10
 
 my record player.<br />
 records are played in their<br />
@@ -863,48 +863,48 @@ hey jude<br />
 not enough<br />
 hey you.
 
-i used to wonder
-whether it was all
-fiction.
-the dreams 
-they sold
-were not
+i used to wonder<br />
+whether it was all<br />
+fiction.<br />
+the dreams <br />
+they sold<br />
+were not<br />
 reality.
 
-but now
-i know
-every great
-book,
-song,
-and movie
-are real
-yet
-poorly made
-copies
-of something
+but now<br />
+i know<br />
+every great<br />
+book,<br />
+song,<br />
+and movie<br />
+are real<br />
+yet<br />
+poorly made<br />
+copies<br />
+of something<br />
 better.
 
-too,
-i know
-that you can remove
-the mis from every 
-mistake.
-sometimes the right 
-scene
-needs more than one 
+too,<br />
+i know<br />
+that you can remove<br />
+the mis from every <br />
+mistake.<br />
+sometimes the right<br /> 
+scene<br />
+needs more than one<br /> 
 take.
 
-and
-while we're on the 
-topic,
-i have to 
-ask:
-it wasn't 500 days
-but are you
-summer
+and<br />
+while we're on the<br /> 
+topic,<br />
+i have to <br />
+ask:<br />
+it wasn't 500 days<br />
+but are you<br />
+summer<br />
 or autumn? 
 
-SCENE
+SCENE 11
 
 more than one
 has said
