@@ -35,11 +35,12 @@ and found it was <br />
 the place<br />
 my heart has always been.<br />
 at least a quarter of it, <br />
-anyway.<br />
+anyway.
+
 a place i have roots,<br />
 a place that calls to me. <br />
 a place where they speak,<br />
-a language from my youth.<br />
+a language from my youth.
 
 i have been indifferent<br />
 to so many others.<br />
@@ -56,7 +57,7 @@ and nothing gained.<br />
 but on that night,<br />
 i knew,<br />
 i must meet you.<br />
-you were a dream;<br />
+you were a dream,<br />
 were you a reality?<br />
 
 i put on my best words.<br />
@@ -69,13 +70,12 @@ how i was <br />
 alone.<br />
 but i assure you,<br />
 the feeling was mutual.<br />
-though i knew<br />
-it was by<br />
+though it was by<br />
 choice.
 
 somehow,<br />
-our conversation stretched<br /> 
-into the next day.<br />
+our conversation stretched into<br />
+the next day.
 
 i thought of your voice.<br />
 i knew it must be <br />
@@ -161,7 +161,7 @@ got lost<br />
 downtown,<br />
 $20 to park<br />
 (worth it),<br />
-got scared and left the beer.
+got nervous and left the beer.
 
 walked to the park<br /> 
 where a drunk couple fawned over ted.<br />
@@ -455,7 +455,7 @@ something to <br />
 light<br />
 my path<br />
 even if<br />
-there was nothing a<br />t
+there was nothing at<br />
 the end.
 
 i knew of <br />
@@ -491,9 +491,11 @@ and black eyes<br />
 are easier<br />
 with you<br />
 in mind.<br />
+
 biking<br />
 a million miles<br />
-is easier<br />
+is easier than<br />
+walking<br />
 anyway.
 
 cooked a little.<br />
@@ -572,10 +574,8 @@ in 2051.
 something had<br />
 changed.<br />
 no longer<br />
-texts at <br />
-night<br />
-when<br />
-you could not<br />
+texts at night<br />
+when you could not<br />
 sleep.
 
 in my phone<br />
@@ -646,8 +646,8 @@ that book would be a best-seller,<br />
 though.
 
 halloween.<br />
-an object in space<br />
-flied by.<br />
+objects in space<br />
+flew by.<br />
 talked with someone new <br />
 or two.<br />
 fizzled out.<br />
@@ -1079,7 +1079,7 @@ green eyes<br />
 have class?<br />
 knees wobble.
 
-text her.
+text her.<br />
 don't be<br />
 afraid.<br />
 don't have<br />
