@@ -929,7 +929,7 @@ touching your<br />
 lips,<br />
 feeling your<br />
 hair,<br />
-rubbing you<br />r
+rubbing your<br />
 shoulders,<br />
 grabbing your<br />
 hands,<br />
