@@ -26,4 +26,4 @@ Yes, that story is what drew me in. I read *A YEUBY* prior to picking up *IJ*. T
 
 *The End of the Tour* is a fairly straight-forward adaption of the book. Some parts are left out, but you get a real feel for the man. It's well-shot for what it is (diners, airports, car interiors). However, it's a niche movie. Unless you really likfe DFW or love the genre of interview movies, you probably won't enjoy it.
 
-This is too bad. This movie has something to say. The scene with Brian Eno's *The Big Ship* playing is haunting and touching, but the deepest parts of the movie are two small scenes right at the end. Technically this is a spoiler and probably the climax of the movie, but too much is said to leave it untold.
+This is too bad. This movie has something to say. I found the scene with Brian Eno's *The Big Ship* haunting and touching, but the deepest part of the movie nnolves two small scenes right at the end. Technically this is a spoiler and probably the climax of the movie, but too much is said to leave it untold.
