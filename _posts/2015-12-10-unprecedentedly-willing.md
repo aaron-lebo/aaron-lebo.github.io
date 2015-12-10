@@ -20,4 +20,4 @@ David Foster Wallace was a writer who loved to embrace his Midwestern guy next d
 
 His writing sets him apart. I'm fairly well-read. I love to read. I made an attempt at *Infinite Jest* this summer (a 1000-page tome with coious footnotes), and have thus far made it through three chapters. Not because I don't enjoy it, but because the writing demands so much attention. It's unlike anything I've ever read. Each scene is extreme and bizarre, but it is that strangeness which transports you there so completely.
 
-Unfortunately for Wallacew, he's known just as much for his writing as he is for his depression which lead to his suicide in 2008 at 46. 
+Unfortunately for Wallace, he's known as much for his battles with depression and suicide in 2008 at 46. 
