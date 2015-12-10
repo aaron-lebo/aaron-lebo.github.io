@@ -25,4 +25,5 @@ Unfortunately for Wallace, he's known as much for his battles with depression an
 Yes, that story is what drew me in. I read *A YEUBY* prior to picking up *IJ*. They cover a lot of ground and say a lot of interesting things. Wallace says TV is like candy; it's not filling (TV had an addictive appeal for him). He was wrong on what he thought the Internet would turn into, and tantalizing when he talks of some future real, honest political candidate (I wonder if Trump is this notion gone wrong). They discuss *The Last of the Mohicans* and Alanis Morisette.
 
 *The End of the Tour* is a fairly straight-forward adaption of the book. Some parts are left out, but you get a real feel for the man. It's well-shot for what it is (diners, airports, car interiors). However, it's a niche movie. Unless you really likfe DFW or love the genre of interview movies, you probably won't enjoy it.
-r
+
+This is too bad. This movie has something to say. The scene with Brian Eno's *The Big Ship* playing is haunting and touching, but the deepest parts of the movie are two small scenes right at the end. Technically this is a spoiler and probably the climax of the movie, but too much is said to leave it untold.
