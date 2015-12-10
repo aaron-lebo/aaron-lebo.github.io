@@ -21,3 +21,8 @@ David Foster Wallace was a writer who loved to embrace his Midwestern guy next d
 His writing sets him apart. I'm fairly well-read. I love to read. I made an attempt at *Infinite Jest* this summer (a 1000-page tome with coious footnotes), and have thus far made it through three chapters. Not because I don't enjoy it, but because the writing demands so much attention. It's unlike anything I've ever read. Each scene is extreme and bizarre, but it is that strangeness which transports you there so completely.
 
 Unfortunately for Wallace, he's known as much for his battles with depression and suicide in 2008 at 46. 
+
+Yes, that story is what drew me in. I read *A YEUBY* prior to picking up *IJ*. They cover a lot of ground and say a lot of interesting things. Wallace says TV is like candy; it's not filling (TV had an addictive appeal for him). He was wrong on what he thought the Internet would turn into, and tantalizing when he talks of some future real, honest political candidate (I wonder if Trump is this notion gone wrong). They discuss *The Last of the Mohicans* and Alanis Morisette.
+
+*The End of the Tour* is a fairly straight-forward adaption of the book. Some parts are left out, but you get a real feel for the man. It's well-shot for what it is (diners, airports, car interiors). However, it's a niche movie. Unless you really likfe DFW or love the genre of interview movies, you probably won't enjoy it.
+r
