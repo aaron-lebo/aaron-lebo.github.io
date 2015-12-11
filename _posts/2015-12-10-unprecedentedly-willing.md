@@ -50,7 +50,8 @@ The second scene, to my knowledge, was written for the movie itself:
 *And, uh, I don't know if you have any kind of experience with this kind of thing but it's worse than any kind of physical injury.*
   
 *You know maybe in the old days what was known as a spiritual crisis: feeling as though every axiom of your life turned out to be false and there was actually nothing. And that you were nothing. And it's all a delusion. And you're so much better than everybody becuase you can see that it's just an illusion and you're so much worse because you can't fucking function.* 
-                                                                                                                              *It's really horrible.*
+
+*It's really horrible.*
  
 *I don't think that we ever change. I'm sure that I still have those same parts of me. I guess I'm trying really hard to find a way not to let them drive.*
 
