@@ -45,7 +45,7 @@ The second scene, to my knowledge, was written for the movie itself:
 
 *It wasn't a chemical imbalance and it wasn't drugs and alchohol. I think it was much more that I lived an incredibly American life. This idea that if I could just achieve x and y and z that everything would be okay.*
 
-*There's a thing in the book about how when sombody leaps from a burning skyscraper, it's not that they're not afraid of falling anymore, it's that the alternative is so awful. And so then you're invited to consider what could be so awful that leaping to your death would seem like an escape from it.* 
+*There's a thing in the book about how when somebody leaps from a burning skyscraper, it's not that they're not afraid of falling anymore, it's that the alternative is so awful. And so then you're invited to consider what could be so awful that leaping to your death would seem like an escape from it.* 
 
 *And, uh, I don't know if you have any kind of experience with this kind of thing but it's worse than any kind of physical injury.*
   
