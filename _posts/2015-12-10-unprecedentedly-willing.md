@@ -47,7 +47,7 @@ The second scene, to my knowledge, was written for the movie itself:
 
 *There's a thing in the book about how when sombody leaps from a burning skyscraper, it's not that they're not afraid of falling anymore, it's that the alternative is so awful. And so then you're invited to consider what could be so awful that leaping form your death would seem like an escape form it.* 
 
-*And, uh, I don't know if you have any kind of experienfce with this kind of thing but it's worse than any kind of physical injury.*
+*And, uh, I don't know if you have any kind of experience with this kind of thing but it's worse than any kind of physical injury.*
   
 *You know maybe in the old days what was known as a spiritual crisis: feeling as though every axiom of your life turned out to be false and there was actually nothing. And that you were nothing. And it's all a delusion. And you're so much better than everybody becuase you can see that it's just an illusion and you're so much worse because you can't fucking function.* 
                                                                                                                               *It's really horrible.*
