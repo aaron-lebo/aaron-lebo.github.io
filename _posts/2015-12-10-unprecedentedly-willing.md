@@ -29,7 +29,7 @@ This is too bad. This movie has something to say. I found the scene with Brian E
 
 If you've ever suffered some sort of breakdown, whether mental or nervous or however else one might break down, you know how it can haunt you.  Some of us are predisposed, whether by genetics or experience to have multiple of these episodes through our lives. Some are lucky enough to where this might happen only once or twice. I suppose there are even some who have *never* had something that causes them to completely fall apart, but I've never met that person.
 
-But if you have ever felt that, especially if you've ever come to that point where you start questioning the value of life itself, when you've looked into that abyss, you know how it effects you. Even after you turn away, even when you work your way back, when you return to the world with the kind of knowledge and appreciation that can only be gained through real pain, that ghost still pokes around behind you. From time to time, you see it out of the corner of your eye, turn to catch it, and it's not in view. But you know it's there.
+But if you have ever felt that, especially if you've ever come to that point where you start questioning the value of life itself, when you've looked into that abyss, you know how it affects you. Even after you turn away, even when you work your way back, when you return to the world with the kind of knowledge and appreciation that can only be gained through real pain, that ghost still pokes around behind you. From time to time, you see it out of the corner of your eye, turn to catch it, and it's not in view. But you know it's there.
 
 It chills you when you tell yourself you won't go back. It chills you even when you know you won't go back. It chills you when you look at people who knew you before or after and wonder if, even though you trust yourself to stay upright, maybe they are doubting you, maybe they are right then and right there wondering if you'll ever go back. All you can do is ignore that ghost.
 
@@ -37,7 +37,7 @@ Yes, I like to hear myself talk. Sorry. But this is my blog, after all.
 
 Anyway, these scenes capture the essence of this feeling better than any other movie, song, or book I know of. The first scene is taken largely from Lipsky's interview:
 
-*You know what? Why don't you write whatever the fuck you want? I am telling you that this was not a lost weeked sort of thing. Nor was it some lurid romantic writer's alcoholic sort of thing. What it was was a 28 year old person who had really exhuasted a couple other ways to live. Really taken them to their conclusion. Which for me was a pink room with a drain in the center     of the floor which is where they put me for an entire day when they thought that I was going to kill myself. Where I had nothing on, I got someone observing me through a slot in the wall.* 
+*You know what? Why don't you write whatever the fuck you want? I am telling you that this was not a lost weekend sort of thing. Nor was it some lurid romantic writer's alcoholic sort of thing. What it was was a 28 year old person who had really exhuasted a couple other ways to live. Really taken them to their conclusion. Which for me was a pink room with a drain in the center of the floor which is where they put me for an entire day when they thought that I was going to kill myself. Where I had nothing on, I got someone observing me through a slot in the wall.* 
 
 *And when that happens to you, you become tremendously, just unprecedentedly willing to examine some other alternatives for how to live.*
 
@@ -47,7 +47,7 @@ The second scene, to my knowledge, was written for the movie itself:
 
 *There's a thing in the book about how when somebody leaps from a burning skyscraper, it's not that they're not afraid of falling anymore, it's that the alternative is so awful. And so then you're invited to consider what could be so awful that leaping to your death would seem like an escape from it.* 
 
-*And, uh, I don't know if you have any kind of experience with this kind of thing but it's worse than any kind of physical injury.*
+*And, I don't know if you have any kind of experience with this kind of thing but it's worse than any kind of physical injury.*
   
 *You know maybe in the old days what was known as a spiritual crisis: feeling as though every axiom of your life turned out to be false and there was actually nothing. And that you were nothing. And it's all a delusion. And you're so much better than everybody because you can see that it's just a delusion and you're so much worse because you can't fucking function.* 
 
