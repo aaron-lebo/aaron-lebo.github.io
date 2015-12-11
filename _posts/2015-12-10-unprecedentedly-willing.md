@@ -35,26 +35,26 @@ But if you have ever felt that, especially if you've ever come to that point whe
 
 Yes, I like to hear myself talk. Sorry. But this is my blog, after all.
 
-Anyway, these scenes capture the essence of this feeling better than any other movie, song, or book I know of. The first scene is takoing largely from Lipsky's interview:
+Anyway, these scenes capture the essence of this feeling better than any other movie, song, or book I know of. The first scene is taken largely from Lipsky's interview:
 
-*You know what? Why don't you write whatever the fuck you want? I am telling you that this was not a lost weeked sort of thing. Nor was it some lurid romantic writer's alcoholic sort of thing. What it was was a 28 year old person who had really exhuasted a couple other ways to live. Really taken them to their conclusion. Which for me was a pink room with a drain in the center     of the floor which is where they put me for an entire day when they thought that I was going to kill myself. Where I had nothing on, I got someone observing me through a slot in the wall. 
+*You know what? Why don't you write whatever the fuck you want? I am telling you that this was not a lost weeked sort of thing. Nor was it some lurid romantic writer's alcoholic sort of thing. What it was was a 28 year old person who had really exhuasted a couple other ways to live. Really taken them to their conclusion. Which for me was a pink room with a drain in the center     of the floor which is where they put me for an entire day when they thought that I was going to kill myself. Where I had nothing on, I got someone observing me through a slot in the wall.* 
 
-And when that happens to you, you bnecome tremendously, just unprecedentedly willing to examine some other alternatives for how to live. *
+*And when that happens to you, you become tremendously, just unprecedentedly willing to examine some other alternatives for how to live.*
 
 The second scene, to my knowledge, was written for the movie itself:
 
-*It wasn't a chemical imbalance and it wasn't drugs and alchohol. I think it was much more that I lived an incredibly American life. This idea that if I could just achieve x and y and z that everything would be okay.
+*It wasn't a chemical imbalance and it wasn't drugs and alchohol. I think it was much more that I lived an incredibly American life. This idea that if I could just achieve x and y and z that everything would be okay.*
 
-There's a thing in the book about how when sombody leaps from a burning skyscraper, it's not that they're not afraid of falling anymore, it's that the alternative is so awful. And so then you're invited to consider what could be so awful that leaping form your death would seem like an escape form it.  
+*There's a thing in the book about how when sombody leaps from a burning skyscraper, it's not that they're not afraid of falling anymore, it's that the alternative is so awful. And so then you're invited to consider what could be so awful that leaping form your death would seem like an escape form it.* 
 
-And, uh, I don't know if you have any kind of experienfce with this kind of thing but it's worse than any kind of physical injury.
+*And, uh, I don't know if you have any kind of experienfce with this kind of thing but it's worse than any kind of physical injury.*
   
-You know maybe in th eold days what was known as a psiritual crisis: feeling as though every axiom of your life turned out to be false and thwere was actually nothing. And that you were nothing. And it's all a delusion. And you're so much better than everybody becuase you can see that it's just an illusion and you're so much worse becuase you can't fucking function. 
-                                                                                                                              It's really horrible.
+*You know maybe in the old days what was known as a spiritual crisis: feeling as though every axiom of your life turned out to be false and there was actually nothing. And that you were nothing. And it's all a delusion. And you're so much better than everybody becuase you can see that it's just an illusion and you're so much worse because you can't fucking function.* 
+                                                                                                                              *It's really horrible.*
  
-I don't think that we ever change. I'm sure that I still have those same parts of me. I guess I'm trying really hard to find a way not to let them drive.
+*I don't think that we ever change. I'm sure that I still have those same parts of me. I guess I'm trying really hard to find a way not to let them drive.*
 
-You know?*
+*You know?*
 
-Yoy know?
+You know?
 
