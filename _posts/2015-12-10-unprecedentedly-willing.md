@@ -49,7 +49,7 @@ The second scene, to my knowledge, was written for the movie itself:
 
 *And, uh, I don't know if you have any kind of experience with this kind of thing but it's worse than any kind of physical injury.*
   
-*You know maybe in the old days what was known as a spiritual crisis: feeling as though every axiom of your life turned out to be false and there was actually nothing. And that you were nothing. And it's all a delusion. And you're so much better than everybody because you can see that it's just a ellusion and you're so much worse because you can't fucking function.* 
+*You know maybe in the old days what was known as a spiritual crisis: feeling as though every axiom of your life turned out to be false and there was actually nothing. And that you were nothing. And it's all a delusion. And you're so much better than everybody because you can see that it's just a delusion and you're so much worse because you can't fucking function.* 
 
 *It's really horrible.*
  
