@@ -2,7 +2,6 @@
 layout: post
 title: Unprecedentedly Willing
 ---
-*work in progress*
 
 So, I had been intending to write a 500-word review for each movie I watched. That hasn't happened. It's boring.
 
@@ -18,20 +17,21 @@ Who was that guy?
 
 David Foster Wallace was a writer who loved to embrace his Midwestern guy next door persona, which was impossible because he was absolutely brilliant. Read any of his stuff, whether essays, books, or interviews, and you'll often find him entertaining and always thoughtful even if you disagree.
 
-His writing sets him apart. I'm fairly well-read. I love to read. I made an attempt at *Infinite Jest* this summer (a 1000-page tome with coious footnotes), and have thus far made it through three chapters. Not because I don't enjoy it, but because the writing demands so much attention. It's unlike anything I've ever read. Each scene is extreme and bizarre, but it is that strangeness which transports you there so completely.
+His writing sets him apart. I'm fairly well-read. I love to read. I made an attempt at *Infinite Jest* this summer (a 1000-page tome with copious footnotes), and have thus far made it through three chapters. Not because I don't enjoy it, but because the writing demands so much attention. It's unlike anything I've ever read. Each scene is extreme and bizarre, but it is that strangeness which transports you there so completely.
 
 Unfortunately for Wallace, he's known as much for his battles with depression and suicide in 2008 at 46. 
 
 Yes, that story is what drew me in. I read *AYEUBY* prior to picking up *IJ*. They cover a lot of ground and say a lot of interesting things. Wallace says TV is like candy; it's not filling (TV had an addictive appeal for him). He was wrong on what he thought the Internet would turn into, and tantalizing when he talks of some future real, honest political candidate (I wonder if Trump is this notion gone wrong). They discuss *The Last of the Mohicans* and Alanis Morisette.
 
-*The End of the Tour* is a fairly straight-forward adaption of the book. Some parts are left out, but you get a real feel for the man. It's well-shot for what it is (diners, airports, car interiors). However, it's a niche movie. Unless you really likfe DFW or love the genre of interview movies, you probably won't enjoy it.
+*The End of the Tour* is a fairly straightforward adaption of the book. Some parts are left out, but you get a real feel for the man. It's well-shot for what it is (diners, airports, car interiors). However, it's a niche movie. Unless you really like DFW or love the genre of interview movies, you probably won't enjoy it.
 
-This is too bad. This movie has something to say. I found the scene with Brian Eno's *The Big Ship* haunting and touching, but the deepest part of the movie nnolves two small scenes right at the end. Technically this is a spoiler and probably the climax of the movie, but too much is said to leave it untold.
+This is too bad. This movie has something to say. I found the scene with Brian Eno's *The Big Ship* haunting and touching, but the deepest part of the movie inolves two small scenes right at the end. Technically this is a spoiler and probably the climax of the movie, but too much is said to leave it untold.
 
 If you've ever suffered some sort of breakdown, whether mental or nervous or however else one might break down, you know how it can haunt you.  Some of us are predisposed, whether by genetics or experience to have multiple of these episodes through our lives. Some are lucky enough to where this might happen only once or twice. I suppose there are even some who have *never* had something that causes them to completely fall apart, but I've never met that person.
 
 But if you have ever felt that, especially if you've ever come to that point where you start questioning the value of life itself, when you've looked into that abyss, you know how it affects you. Even after you turn away, even when you work your way back, when you return to the world with the kind of knowledge and appreciation that can only be gained through real pain, that ghost still pokes around behind you. From time to time, you see it out of the corner of your eye, turn to catch it, and it's not in view. But you know it's there.
- nder if even though you trust yourself to stay upright, maybe they are doubting you, maybe they are right then and right there wondering if you'll ever go back. All you can do is ignore that ghost.
+
+It chills you when you tell yourself you won't go back. It chills you even when you know you won't go back. It chills you when you look at people who knew you before or after and wonder if, even though you trust yourself to stay upright, maybe they are doubting you, maybe they are right then and right there wondering if you'll ever go back. All you can do is ignore that ghost.
 
 Yes, I like to hear myself talk. Sorry. But this is my blog, after all.
 
