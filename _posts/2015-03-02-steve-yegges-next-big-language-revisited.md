@@ -125,7 +125,7 @@ When you put it all together, what does this (the dynamo that is Javascript) giv
 * a genuinely exciting way to create UIs with React
 * an expressive and relatively good syntax which is both easy to adapt to and won't drive anyone away immediately
 * decent and improving tooling
-* and to repeat it one more time....a foundation that will exist for years and years and only grow due to its importance to the browser...meaining the best and biggest companies are consantly improving upon the language, the ecosystem, and the tooling around it
+* and to repeat it one more time....a foundation that will exist for years and years and only grow due to its importance to the browser...meaining the best and biggest companies are constantly improving upon the language, the ecosystem, and the tooling around it
 
 Hell, even when people aren't using JS itself, this combination of factors makes it *the* compile target, only entrenching it further. Python and Ruby might have more of a future compiling to and running as Javascript than they would on their own VMs. This certainly is the case for any number of niche and/or hobbyist languages. See [Roy](http://roy.brianmckenna.org), [Wisp](https://github.com/Gozalla/wisp), or [dozens of others](https://giothub.com/jaskenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) as examples (tools like [Jison](http://jison.org) and [escodegen](https://github.com/estools/escodegen) make JS a great way to learn parsers and compilers, for the record).
 
