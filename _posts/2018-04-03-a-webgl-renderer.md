@@ -3,12 +3,10 @@ layout: post
 title: A WebGL renderer in 300 lines of Javascript
 ---
 
-*
-Sherif: There are guns at Aqaba.
+*Sherif: There are guns at Aqaba.
 Lawrence: They face the sea, Sherif Ali, and cannot be turned round. From the landward side, there are no guns at Aqaba.
 Sherif: With good reason. It cannot be approached from the landward side.
-Lawrence: Certainly the Turks don't dream of it. Aqaba is over there. It's only a matter of going.
-* - Lawrence of Arabia (1962) 
+Lawrence: Certainly the Turks don't dream of it. Aqaba is over there. It's only a matter of going.* - Lawrence of Arabia (1962) 
 
 Hey there.
 
