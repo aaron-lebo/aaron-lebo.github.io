@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A WebGL renderer in 300 lines of Javascript (and parts of 8 others in 5 different languages)
+title: A WebGL renderer in 300 lines of Javascript
 ---
 
 Hey there.
