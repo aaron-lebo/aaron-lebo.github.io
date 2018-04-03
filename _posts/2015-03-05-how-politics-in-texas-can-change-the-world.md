@@ -100,7 +100,7 @@ At risk of sounding arrogant or just plain ignorant, I'd like to call the genera
 
 On the other hand, I consider myself progressive in the sense that, unlike some conservatives, I don't believe we can afford to sit on our hands, or invoke the slippery slope argument for everything new that comes down the pike. To be creative, to innovate, to learn, you must try new things. This, too, is something we all learn in life, or if you are unlucky enough to do so, academia (I'm kidding?). New ideas come along, they are tested, and then they get improved upon or rejected. We can't afford not to try new things. If we don't we will get left behind, we will fail to adapt, and we will die as a nation and as a dream.
 
-Conservatism progressivism, therefore, is a desire to continually try new policies at the state or local level in small, incremental, and reversible chunks, connected strongly to an inherent skepticism and show me attitude. To repeat one final time: Texas, due to its history, culture, and current place in the world, is uniquely suited to try it out. This is a political philosophy that fits our culture and allows for both conservative and liberal engagement.  
+Conservate progressivism, therefore, is a desire to continually try new policies at the state or local level in small, incremental, and reversible chunks, connected strongly to an inherent skepticism and show me attitude. To repeat one final time: Texas, due to its history, culture, and current place in the world, is uniquely suited to try it out. This is a political philosophy that fits our culture and allows for both conservative and liberal engagement.  
 
 # Eyes and Hearts
 
