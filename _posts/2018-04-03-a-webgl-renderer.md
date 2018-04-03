@@ -11,7 +11,7 @@ title: A WebGL renderer in 300 lines of Javascript
 
 *Lawrence: Certainly the Turks don't dream of it. Aqaba is over there. It's only a matter of going.* 
 
-- Lawrence of Arabia (1962)
+-- Lawrence of Arabia (1962)
 
 Hey there.
 
