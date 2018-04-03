@@ -3,14 +3,20 @@ layout: post
 title: A WebGL renderer in 300 lines of Javascript
 ---
 
+*
+Sherif: There are guns at Aqaba.
+Lawrence: They face the sea, Sherif Ali, and cannot be turned round. From the landward side, there are no guns at Aqaba.
+Sherif: With good reason. It cannot be approached from the landward side.
+Lawrence: Certainly the Turks don't dream of it. Aqaba is over there. It's only a matter of going.
+* - Lawrence of Arabia (1962) 
+
 Hey there.
 
 It's been a long time since I've written anything on this blog. I've got to live with my opinionated self, which gets old, so I'd just as soon not subject others to that. Too many people in this age of social media feel like their every action and half-baked hot take are worth broadcasting, like their thoughts are god's gift to humanity. I'm under no such delusion, and you know what people say about assumptions and opinions, anyway...
 
 I tell you this because I've been working hard over the last few years on several fronts, and have what I believe is some some hard won experience and knowledge that I'd like to share, as well as a decent amount of code that I think is pretty neat. Hopefully it will be useful to you. Sometimes when I get to writing I have difficulty stopping, so I apologize if this is overly long. Thanks for reading.
 
-comanche
-==========
+# comanche
 
 [comanche](https://comanche3d.com/) ([source](https://github.com/aaron-lebo/comanche)) is a WebGL renderer (eventually, a proper game engine) written in Javascript that weighs in at just over 300 lines of code. It is named after those lords of the plains, the Comanche, who dominated an area centered on the Texas Panhandle from the arrival of Spanish horses until into the 1870s. As detailed by S.C. Gwynne in *[Empire of the Summer Moon](https://www.amazon.com/dp/B003KN3MDG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)*, the Comanche were the best light calvary in the world for a time and had an [uncontested empire](https://en.wikipedia.org/wiki/Comancheria) as far north as the Arkansas River. They were a skilled and ruthless warrior society; men and women alike fierce and hard. When Texas came into the Union in 1845, almost the entirety of territory it and the US claimed to the north and west of Austin was not actually under American control. Amazingly, less than 150 years later, not only is that empire gone but Comanche culture, like many native cultures the world over, is all but dead. This homage can't undo history, but being from a town called Yellow on those plains, it's my small nod to them. 
 
@@ -24,8 +30,7 @@ It's never that easy. Though Craft is very well-written code, the thing about Op
 
 Fortunately for you and me, there are [lots](https://learnopengl.com/) [of](http://www.opengl-tutorial.org/) [resources](https://webgl2fundamentals.org/) which explain how it all works. I find this is true about many domains today: the sheer amount of free information is unbelievable. Because that work has already been done (thank you, thank you, thank you to the authors), I'll link you to those resources and suggest you dive in if you're interested in graphics programming. To pique that interest and give you an idea of the basics, I'll provide a simplified explanation, as I understand it.
 
-How graphics programming works
-===
+# How graphics programming works
 
 As stated earlier, the basis of polygons and then more complex 3d shapes is the triangle. A triangle is composed of 3 vertices, a square of 2 triangles, and a cube of 6 squares, or 12 triangles, or 36 vertices. These shapes are assembled on the CPU and then passed to the GPU through the use of buffers. Shapes and models can be programmatically assembled or imported from 3d modeling programs such as Blender via .obj files or other formats. Buffers are the primary mechanism of uploading and manipulating data on the GPU. There is also the concept of attributes, which is basically how you say "this buffer contains 108 floating point numbers, with each set of three representing a vertex"; in other words, the attributes/charateristics of the buffer. You can similarly upload color data (RGBA) via buffers. Furthermore, if you'll consider how triangles form a square, you'll notice that you really don't need 6 separate vertices, the triangles can share 4 of them. OpenGL has functionality that allows you to specify the indices of shared vertices to do this (confusingly called element arrays), which is but one example of a number of perhaps unexpected features which are seemingly minor but have specific uses. Another is the way that "winding" vertices clockwise or counter-clockwise to form a shape determines what direction it is culled from (or not rendered when unnecessary). You can Google for more information, but it's worth being aware that concepts like this exist and they exist for a reason. 
 
@@ -45,8 +50,7 @@ Not to simplify things too much, but what I just described is the heart of graph
 
 I find this a little intoxicating. It's a good feeling to be able to finally read through Craft's main function and understand what's going on. What's just as fun is being able to play games, especially older ones, and to understand how it all works. You can play a game like Minecraft and realize just how little is going on and how anyone who takes the time to learn can build worlds like that, too. It's funny becuase I remember being interested in the topic growing up but always running across people in game forums who acted like 3d programming was impossibly difficult and who discouraged beginners from trying, steering them down different avenues. I still see this today and all I can think is that it's really not that hard, it's not hard at all, you just gotta put in some work and learn. The effort is very rewarding, though, if for no other reason than to prove to yourself that you are capable. I often see similar discouragment and learned helplessness across the tech industry as a whole which frustrates me. Why tell people what they can't do? You ever noticed how those who talk the most often don't really know what they are talking about? It's almost like their primary motivation is to be heard and figuring out the truth is only incidental. We can talk about this another time...
 
-Learning strategies
-===
+# Learning strategies
 
 One of the goals of comanche, aside from making a working game and game engine, is to provide a tool for learning. Anyone should be able to read the source and understand how everything works. Things should be as simple as possible but no simpler, which stands in contrast to many projects which are overly complicated because they were never really made to be understood. It's very powerful to understand something new, and I'd like to encourage that, besides the fact that I'm quite literally obsessive about code and can't really help myself. No line should be wasted.
 
@@ -54,8 +58,7 @@ While were're on this topic of learning, my personal experience as a political s
 
 One more thing on the topic of learning. A strategy I find useful when approaching an unfamiliar topic is to 1) read articles and books to get a general overview of what's possible 2) build a practically useful project based on that understanding and 3) repeat the first two steps using different material and languages/libraries. This is more generally applicable than tech, but by approaching the problem from different perspectives, I tend to eventually figure things out. comanche is but one of multiple attempts in other languages. Some are broken, wrong, or do a fraction of the work, but they exist. There's a [renderer in Go](https://github.com/aaron-lebo/com) which includes font rendering using texture atlases, but the wrapping is wrong, there's some lag on input that I can't figure out, and I didn't really understand vertex array objects at the time. There's a "[lisp-engine](https://github.com/aaron-lebo/lisp-engine)" which only renders a triangle, but you can change that color at runtime, which is pretty cool if you ask me (thanks lisp). [cube](https://github.com/aaron-lebo/cube) is a C++ renderer which integrates [ImGui](https://github.com/ocornut/imgui) for menus (and it actually works). There are two Rust projects, [one](https://github.com/aaron-lebo/bears) uses the library [Glium](https://github.com/glium/glium), [another](https://github.com/aaron-lebo/comanche-rust) uses raw OpenGL. Finally, [craft.cpp](https://github.com/aaron-lebo/craft.cpp) is Craft converted to compile using a C++ compiler, and [nimcraft](https://github.com/aaron-lebo/nimcraft) was an attempted port in Nim which simply doesn't work, much like [nimgl](https://github.com/aaron-lebo/nimgl). Knock yourself out.
 
-Why WebGL
-===
+# Why WebGL
 
 I've found that all you really need when doing graphics programming are bindings to OpenGL, a matrix library, a library which can read images for textures (preferrably PNGs), and a library which works with the OS to handle input and window creation. OpenGL does not handle the latter, but [GLFW](http://www.glfw.org/) and [SDL2](https://www.libsdl.org/download-2.0.php) both exist and any language worth its salt will have bindings to those and OpenGL, which are all written in C. Some languages have additional libraries such as Rust with [Glutin](https://github.com/tomaka/glutin). Matrix libraries are common, some languages have multiple. It's not even especially difficult to write your own matrix libary (Craft does this), and this may be worth doing if you want to see how they operate, but others have done the work and the optimizations. The old standby is C++'s [GLM](https://glm.g-truc.net/0.9.8/index.html); many libraries are modeled after it. I believe SDL2 will read images, but most languages have a library that will do this, too.
 
@@ -67,8 +70,7 @@ Temporary detour, but the state of discussion around languages and tech in gener
 
 Anyway, I'm saying Javascript isn't a bad language and for the purposes of learning it's even great. If you really can't change your mind about it, [TypeScript](https://www.typescriptlang.org/index.html) fixes many of its remaining issues and [BuckleScript](https://bucklescript.github.io/) exists, too (and is excellent). Either one of them can use the same libraries. Finally, what these languages can all take advantage of is that there's really not a better platform for custom UIs than the browser - overlaying an interface on top of your WebGL canvas is a few lines of CSS. It's hard to beat that convenience.
 
-Plans
-===
+# Plans
 
 This being said, I'm not convinced that this is the best way to make a game, though I figure it's always useful to be able to target the browser and to have have multiple codebases to work out your design/interfaces/specification. If you really had to, it should be straightforward to convert parts of the codebase (especially performance critical sections) to other languages which would compile down to [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly) and native libraries. Your renderer would then be a very thin shim which is the only custom part of each port, and because WebGL mirrors OpenGL, conversion should be trivial. Another idea I had was to port to a subset of TypeScript and then transpile that to something high-level but fast like lisp. Maybe another day. 
 
@@ -78,8 +80,7 @@ Over the short-term I'd like to add frustrum culling, chunking, and some basic m
 
 Ok, so that's just listing a bunch of games I like. The good thing is there are plenty of examples of what works, this stuff doesn't have to be discovered, some of it is practically ancient, you just gotta put the pieces together. By pulling back the graphical spectacle (Tranformers isn't a very good movie), smaller teams can compete, and given the advance of hardware, it's hard to imagine what's possible given a few years. Even now hardware is not the limitation. While VR may be immature, when it's ready, the next Mario is going to be a billion dollar franchise. The goal for our team isn't that, but rather to be in a position to have a chance of doing that. With hard work and time, that's achievable.
 
-More plans
-===
+# More plans
 
 It will take time. Currently, I'm working a couple jobs while trying to finish a dissertation. That's humblebraggy, but it keeps me level and forces me to pace myself. Job 1 I've had for 12 years. Fresh off reading *Programming Rails*, I walked in and told my boss on day one that we could recreate their PHP app in a few days. Oh yeah no problem. Rails has scaffolding, right? Of course that was ambitious (try weeks if not months), but I've grown up there and learned not only how to build systems but my bosses have perhaps unintentionally taught me so very much about treating clients and employees right. Job 2 is newer, I'm on a small team that builds open source software that's getting used by people at some of the best universities in the world (yes, in Javascript). I'm amazed and proud of what we've accomplished as a team. We too are learning as we go, but it's nice working with people who are talented. The dissertation, well, I'll be glad when it's over. Gotta keep chipping away.
 
